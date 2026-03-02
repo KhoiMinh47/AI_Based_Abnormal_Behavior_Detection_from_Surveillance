@@ -258,6 +258,3 @@ Save the screenshot you shared as:
 
 - `docs/images/dashboard-demo.png`
 
-## License
-
-This repository does not currently include a license file. Add a `LICENSE` file if you plan to publish or distribute it publicly.
